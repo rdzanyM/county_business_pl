@@ -87,4 +87,4 @@ replace_values('county_to_be_replaced.json', c_main, c_corresp)
 
 df.to_csv("../data/ceidg_data_classif_cleaned.csv")
 
-count_by_businesses(*all_units)
+# count_by_businesses(*all_units)
