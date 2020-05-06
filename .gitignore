@@ -1,1 +1,4 @@
 .idea/
+data/ceidg_data_classif_cleaned.csv
+data/ceidg_data_classif.csv
+venv/
