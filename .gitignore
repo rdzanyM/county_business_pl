@@ -2,3 +2,5 @@
 data/ceidg_data_classif_cleaned.csv
 data/ceidg_data_classif.csv
 venv/
+.ipynb_checkpoints/
+data_cleaning/.ipynb_checkpoints/
