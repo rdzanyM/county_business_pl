@@ -34,4 +34,5 @@ group_df.to_csv('./data/group_list.csv', encoding = "utf-8", index = False)
 
 class_df = df.loc[df['level'] == 'klasa'][["symbol", "name", "parent"]]
 class_df["symbol"] = class_df["symbol"].str.replace('.', '', regex=False)
+class_df["parent"] = class_df["parent"].str.replace('.', '', regex=False)
 class_df.to_csv('./data/class_list.csv', encoding = "utf-8", index = False)
