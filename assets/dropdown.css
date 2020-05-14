@@ -1,9 +1,10 @@
 .VirtualizedSelectOption {
-    display: block;
+    display: inline-block;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
+
 
   .VirtualizedSelectOption:hover {
     overflow: visible;

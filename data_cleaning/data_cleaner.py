@@ -10,7 +10,7 @@ def read_data(sample: bool):
     if sample is True:
         data = pd.read_csv(f"../data/{ceidg_sample}")
     else:
-        data = pd.read_csv(f"../data/{ceidg}")
+        data = pd.read_csv(f"../data/{ceidg}", dtype={"MainAddressTERC" : str})
     return data
 
 
@@ -69,6 +69,18 @@ def count_by_businesses(*args):
         business_counted_by_arg = df[arg].value_counts()
         business_counted_by_arg.to_csv(f"../data/{arg.lower()}_count_by.csv", header=True)
 
+def partial_TERC_fill(data, terc):
+   for index, row in data.iterrows():
+       if row['MainAddressTERC'] in ["", np.nan, "N/A"]:
+            terc_v = ""
+            terc_c = ""
+            if row['MainAddressVoivodeship'] not in ["", np.nan, "N/A"]:
+               terc_v = terc[terc['NAZWA'] == row['MainAddressVoivodeship']]['WOJ']
+            if row['MainAddressCounty'] not in ["", np.nan, "N/A"]:
+                terc_c = terc[terc['NAZWA'] == row['MainAddressCounty']]['POW']
+            else:
+                print("terc_v", terc_v)
+            data.at[index, 'MainAddressTERC'] = terc_v + terc_c
 
 df = read_data(sample=False)
 df = df.replace(np.nan, "", regex=True)
@@ -84,6 +96,10 @@ uppercase_columns(*all_units)
 delete_county_prefixes(c_main, c_corresp)
 replace_values('voiv_to_be_replaced.json', v_main, v_corresp)
 replace_values('county_to_be_replaced.json', c_main, c_corresp)
+
+terc = pd.read_csv('../data_analisis/TERC_Urzedowy_2020-05-05.csv', encoding="utf-8", sep=';', dtype=str)
+
+partial_TERC_fill(df, terc)
 
 df.to_csv("../data/ceidg_data_classif_cleaned.csv")
 
