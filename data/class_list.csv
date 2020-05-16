@@ -1,616 +1,616 @@
-symbol,name
-0170,"Łowiectwo i pozyskiwanie zwierząt łownych, włączając działalność usługową"
-3299,"Produkcja pozostałych wyrobów, gdzie indziej niesklasyfikowana"
-5020,Transport morski i przybrzeżny towarów
-9101,Działalność bibliotek i archiwów
-0210,"Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych"
-0220,Pozyskiwanie drewna
-0230,"Pozyskiwanie dziko rosnących produktów leśnych, z wyłączeniem drewna"
-0240,Działalność usługowa związana z leśnictwem
-0311,Rybołówstwo w wodach morskich
-0312,Rybołówstwo w wodach śródlądowych
-0321,Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach morskich
-0322,Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach śródlądowych
-0510,Wydobywanie węgla kamiennego
-0520,Wydobywanie węgla brunatnego (lignitu)
-0610,Górnictwo ropy naftowej
-0620,Górnictwo gazu ziemnego
-0710,Górnictwo rud żelaza
-0721,Górnictwo rud uranu i toru
-0729,Górnictwo pozostałych rud metali nieżelaznych
-0811,"Wydobywanie kamieni ozdobnych oraz kamienia dla potrzeb budownictwa, skał wapiennych, gipsu, kredy i łupków"
-0812,Wydobywanie żwiru i piasku; wydobywanie gliny i kaolinu
-0891,Wydobywanie minerałów dla przemysłu chemicznego oraz do produkcji nawozów
-0892,Wydobywanie torfu
-0893,Wydobywanie soli
-0899,"Pozostałe górnictwo i wydobywanie, gdzie indziej niesklasyfikowane"
-0910,Działalność usługowa wspomagająca eksploatację złóż ropy naftowej i gazu ziemnego
-0990,Działalność usługowa wspomagająca pozostałe górnictwo i wydobywanie
-1011,"Przetwarzanie i konserwowanie mięsa, z wyłączeniem mięsa z drobiu"
-1012,Przetwarzanie i konserwowanie mięsa z drobiu
-1013,"Produkcja wyrobów z mięsa, włączając wyroby z mięsa drobiowego"
-1020,"Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków"
-1031,Przetwarzanie i konserwowanie ziemniaków
-1032,Produkcja soków z owoców i warzyw
-1039,Pozostałe przetwarzanie i konserwowanie owoców i warzyw
-1041,Produkcja olejów i pozostałych tłuszczów płynnych
-1042,Produkcja margaryny i podobnych tłuszczów jadalnych
-1051,Przetwórstwo mleka i wyrób serów
-1052,Produkcja lodów
-1061,Wytwarzanie produktów przemiału zbóż
-1062,Wytwarzanie skrobi i wyrobów skrobiowych
-1071,Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek
-1072,Produkcja sucharów i herbatników; produkcja konserwowanych wyrobów ciastkarskich i ciastek
-1073,"Produkcja makaronów, klusek, kuskusu i podobnych wyrobów mącznych"
-3311,Naprawa i konserwacja metalowych wyrobów gotowych
-3312,Naprawa i konserwacja maszyn
-3313,Naprawa i konserwacja urządzeń elektronicznych i optycznych
-3314,Naprawa i konserwacja urządzeń elektrycznych
-3315,Naprawa i konserwacja statków i łodzi
-3316,Naprawa i konserwacja statków powietrznych i statków kosmicznych
-3317,Naprawa i konserwacja pozostałego sprzętu transportowego
-3319,Naprawa i konserwacja pozostałego sprzętu i wyposażenia
-3320,"Instalowanie maszyn przemysłowych, sprzętu i wyposażenia"
-3511,Wytwarzanie energii elektrycznej
-3512,Przesyłanie energii elektrycznej
-3513,Dystrybucja energii elektrycznej
-3514,Handel energią elektryczną
-3521,Wytwarzanie paliw gazowych
-3522,Dystrybucja paliw gazowych w systemie sieciowym
-3523,Handel paliwami gazowymi w systemie sieciowym
-3530,"Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych"
-3600,"POBÓR, UZDATNIANIE I DOSTARCZANIE WODY"
-3700,ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW
-3811,Zbieranie odpadów innych niż niebezpieczne
-3812,Zbieranie odpadów niebezpiecznych
-3821,Obróbka i usuwanie odpadów innych niż niebezpieczne
-3822,Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych
-3831,Demontaż wyrobów zużytych
-3832,Odzysk surowców z materiałów segregowanych
-3900,DZIAŁALNOŚĆ ZWIĄZANA Z REKULTYWACJĄ I POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z GOSPODARKĄ ODPADAMI
-4110,Realizacja projektów budowlanych związanych ze wznoszeniem budynków
-4120,Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
-4211,Roboty związane z budową dróg i autostrad
-4212,Roboty związane z budową dróg szynowych i kolei podziemnej
-4213,Roboty związane z budową mostów i tuneli
-4221,Roboty związane z budową rurociągów przesyłowych i sieci rozdzielczych
-4222,Roboty związane z budową linii telekomunikacyjnych i elektroenergetycznych
-4291,Roboty związane z budową obiektów inżynierii wodnej
-4299,"Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej, gdzie indziej niesklasyfikowane"
-4311,Rozbiórka i burzenie obiektów budowlanych
-4312,Przygotowanie terenu pod budowę
-4313,Wykonywanie wykopów i wierceń geologiczno-inżynierskich
-4321,Wykonywanie instalacji elektrycznych
-5030,Transport wodny śródlądowy pasażerski 
-5040,Transport wodny śródlądowy towarów
-5110,Transport lotniczy pasażerski
-5121,Transport lotniczy towarów
-5122,Transport kosmiczny
-5210,Magazynowanie i przechowywanie towarów
-5221,Działalność usługowa wspomagająca transport lądowy
-5222,Działalność usługowa wspomagająca transport wodny
-5223,Działalność usługowa wspomagająca transport lotniczy
-5224,Przeładunek towarów
-5229,Pozostała działalność usługowa wspomagająca transport
-5310,Działalność pocztowa objęta obowiązkiem świadczenia usług powszechnych (operatora publicznego)
-5320,Pozostała działalność pocztowa i kurierska
-5510,Hotele i podobne obiekty zakwaterowania
-5520,Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
-5530,Pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe
-5590,Pozostałe zakwaterowanie
-5610,Restauracje i pozostałe placówki gastronomiczne
-5621,Przygotowywanie i dostarczanie żywności dla odbiorców zewnętrznych (katering)
-5629,Pozostała usługowa działalność gastronomiczna
-5630,Przygotowywanie i podawanie napojów
-5811,Wydawanie książek
-5812,"Wydawanie wykazów oraz list (np. adresowych, telefonicznych)"
-5813,Wydawanie gazet
-5814,Wydawanie czasopism i pozostałych periodyków
-5819,Pozostała działalność wydawnicza
-5821,Działalność wydawnicza w zakresie gier komputerowych
-5829,Działalność wydawnicza w zakresie pozostałego oprogramowania
-5911,"Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych"
-5912,"Działalność postprodukcyjna związana z filmami, nagraniami wideo i programami telewizyjnymi"
-5913,"Działalność związana z dystrybucją filmów, nagrań wideo i programów telewizyjnych"
-5914,Działalność związana z projekcją filmów
-5920,Działalność w zakresie nagrań dźwiękowych i muzycznych
-6010,Nadawanie programów radiofonicznych
-6020,Nadawanie programów telewizyjnych ogólnodostępnych i abonamentowych
-6110,Działalność w zakresie telekomunikacji przewodowej
-6120,"Działalność w zakresie telekomunikacji bezprzewodowej, z wyłączeniem telekomunikacji satelitarnej"
-6130,Działalność w zakresie telekomunikacji satelitarnej
-6190,Działalność w zakresie pozostałej telekomunikacji
-9102,Działalność muzeów
-9103,Działalność historycznych miejsc i budynków oraz podobnych atrakcji turystycznych
-9104,Działalność ogrodów botanicznych i zoologicznych oraz obszarów i obiektów ochrony przyrody
-9200,DZIAŁALNOŚĆ ZWIĄZANA Z GRAMI LOSOWYMI I ZAKŁADAMI WZAJEMNYMI
-9311,Działalność obiektów sportowych
-9312,Działalność klubów sportowych
-9313,Działalność obiektów służących poprawie kondycji fizycznej
-9319,Pozostała działalność związana ze sportem
-9321,Działalność wesołych miasteczek i parków rozrywki
-9329,Pozostała działalność rozrywkowa i rekreacyjna
-9411,Działalność organizacji komercyjnych i pracodawców
-9412,Działalność organizacji profesjonalnych
-9420,Działalność związków zawodowych
-9491,Działalność organizacji religijnych
-9492,Działalność organizacji politycznych
-9499,"Działalność pozostałych organizacji członkowskich, gdzie indziej niesklasyfikowana"
-9511,Naprawa i konserwacja komputerów i urządzeń peryferyjnych
-9512,Naprawa i konserwacja sprzętu (tele)komunikacyjnego
-9521,Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku
-9522,Naprawa i konserwacja urządzeń gospodarstwa domowego oraz sprzętu użytku domowego i ogrodniczego
-9523,Naprawa obuwia i wyrobów skórzanych
-9524,Naprawa i konserwacja mebli i wyposażenia domowego
-9525,"Naprawa zegarów, zegarków oraz biżuterii"
-9529,Naprawa pozostałych artykułów użytku osobistego i domowego
-9601,Pranie i czyszczenie wyrobów włókienniczych i futrzarskich
-9602,Fryzjerstwo i pozostałe zabiegi kosmetyczne
-9603,Pogrzeby i działalność pokrewna
-9604,Działalność usługowa związana z poprawą kondycji fizycznej
-9609,"Pozostała działalność usługowa, gdzie indziej niesklasyfikowana"
-9700,GOSPODARSTWA DOMOWE ZATRUDNIAJĄCE PRACOWNIKÓW
-9810,Gospodarstwa domowe produkujące wyroby na własne potrzeby
-9820,Gospodarstwa domowe świadczące usługi na własne potrzeby
-9900,ORGANIZACJE I ZESPOŁY EKSTERYTORIALNE
-1081,Produkcja cukru
-4322,"Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych"
-6201,Działalność związana z oprogramowaniem
-1082,"Produkcja kakao, czekolady i wyrobów cukierniczych"
-1083,Przetwórstwo herbaty i kawy
-1084,Produkcja przypraw
-1085,Wytwarzanie gotowych posiłków i dań
-1086,Produkcja artykułów spożywczych homogenizowanych i żywności dietetycznej
-1089,"Produkcja pozostałych artykułów spożywczych, gdzie indziej niesklasyfikowana"
-1091,Produkcja gotowej paszy dla zwierząt gospodarskich
-1092,Produkcja gotowej karmy dla zwierząt domowych
-1101,"Destylowanie, rektyfikowanie i mieszanie alkoholi"
-1102,Produkcja win gronowych
-1103,Produkcja cydru i pozostałych win owocowych
-1104,Produkcja pozostałych niedestylowanych napojów fermentowanych
-1105,Produkcja piwa
-1106,Produkcja słodu
-1107,Produkcja napojów bezalkoholowych; produkcja wód mineralnych i pozostałych wód butelkowanych
-1200,PRODUKCJA WYROBÓW TYTONIOWYCH
-1310,Przygotowanie i przędzenie włókien tekstylnych
-1320,Produkcja tkanin
-1330,Wykończanie wyrobów włókienniczych
-1391,Produkcja dzianin metrażowych
-1392,Produkcja gotowych wyrobów tekstylnych
-1393,Produkcja dywanów i chodników
-1394,"Produkcja wyrobów powroźniczych, lin, szpagatów i wyrobów sieciowych"
-1395,"Produkcja włóknin i wyrobów wykonanych z włóknin, z wyłączeniem odzieży"
-1396,Produkcja pozostałych technicznych i przemysłowych wyrobów tekstylnych
-1399,"Produkcja pozostałych wyrobów tekstylnych, gdzie indziej niesklasyfikowana"
-1411,Produkcja odzieży skórzanej
-1412,Produkcja odzieży roboczej
-1413,Produkcja pozostałej odzieży wierzchniej
-1414,Produkcja bielizny
-1419,Produkcja pozostałej odzieży i dodatków do odzieży
-1420,Produkcja wyrobów futrzarskich
-1431,Produkcja wyrobów pończoszniczych
-1439,Produkcja pozostałej odzieży dzianej
-1511,"Wyprawa skór, garbowanie; wyprawa i barwienie skór futerkowych"
-1512,"Produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich"
-1520,Produkcja obuwia
-1610,Produkcja wyrobów tartacznych
-1621,Produkcja arkuszy fornirowych i płyt wykonanych na bazie drewna
-1622,Produkcja gotowych parkietów podłogowych
-1623,Produkcja pozostałych wyrobów stolarskich i ciesielskich dla budownictwa
-1624,Produkcja opakowań drewnianych
-1629,"Produkcja pozostałych wyrobów z drewna; produkcja wyrobów z korka, słomy i materiałów używanych do wyplatania"
-1711,Produkcja masy włóknistej
-1712,Produkcja papieru i tektury
-1721,Produkcja papieru falistego i tektury falistej oraz opakowań z papieru i tektury
-1722,"Produkcja artykułów gospodarstwa domowego, toaletowych i sanitarnych"
-1723,Produkcja artykułów piśmiennych
-1724,Produkcja tapet
-1729,Produkcja pozostałych wyrobów z papieru i tektury
-1811,Drukowanie gazet
-1812,Pozostałe drukowanie
-1813,Działalność usługowa związana z przygotowywaniem do druku
-1814,Introligatorstwo i podobne usługi
-1820,Reprodukcja zapisanych nośników informacji
-1910,Wytwarzanie i przetwarzanie koksu
-1920,Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej
-2011,Produkcja gazów technicznych
-2012,Produkcja barwników i pigmentów
-2013,Produkcja pozostałych podstawowych chemikaliów nieorganicznych
-2014,Produkcja pozostałych podstawowych chemikaliów organicznych
-2015,Produkcja nawozów i związków azotowych
-2016,Produkcja tworzyw sztucznych w formach podstawowych
-2017,Produkcja kauczuku syntetycznego w formach podstawowych
-2020,Produkcja pestycydów i pozostałych środków agrochemicznych
-2030,"Produkcja farb, lakierów i podobnych powłok, farb drukarskich i mas uszczelniających"
-2041,"Produkcja mydła i detergentów, środków myjących i czyszczących"
-2042,Produkcja wyrobów kosmetycznych i toaletowych
-2051,Produkcja materiałów wybuchowych
-2052,Produkcja klejów
-2053,Produkcja olejków eterycznych
-2059,"Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana"
-2060,Produkcja włókien chemicznych
-2110,Produkcja podstawowych substancji farmaceutycznych
-2120,Produkcja leków i pozostałych wyrobów farmaceutycznych
-2211,Produkcja opon i dętek z gumy; bieżnikowanie i regenerowanie opon z gumy
-2219,Produkcja pozostałych wyrobów z gumy
-2221,"Produkcja płyt, arkuszy, rur i kształtowników z tworzyw sztucznych"
-2222,Produkcja opakowań z tworzyw sztucznych
-2223,Produkcja wyrobów dla budownictwa z tworzyw sztucznych
-2229,Produkcja pozostałych wyrobów z tworzyw sztucznych
-4329,Wykonywanie pozostałych instalacji budowlanych
-4331,Tynkowanie
-4332,Zakładanie stolarki budowlanej
-4333,Posadzkarstwo; tapetowanie i oblicowywanie ścian
-4334,Malowanie i szklenie
-4339,Wykonywanie pozostałych robót budowlanych wykończeniowych
-4391,Wykonywanie konstrukcji i pokryć dachowych
-4399,"Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane"
-4511,Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek
-4519,"Sprzedaż hurtowa i detaliczna pozostałych pojazdów samochodowych, z wyłączeniem motocykli"
-4520,"Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli"
-4531,"Sprzedaż hurtowa części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli"
-4532,"Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli"
-4540,"Sprzedaż hurtowa i detaliczna motocykli, ich naprawa i konserwacja oraz sprzedaż hurtowa i detaliczna części i akcesoriów do nich"
-4611,"Działalność agentów zajmujących się sprzedażą płodów rolnych, żywych zwierząt, surowców dla przemysłu tekstylnego i półproduktów"
-4612,"Działalność agentów zajmujących się sprzedażą paliw, rud, metali i chemikaliów przemysłowych"
-4613,Działalność agentów zajmujących się sprzedażą drewna i materiałów budowlanych
-4614,"Działalność agentów zajmujących się sprzedażą maszyn, urządzeń przemysłowych, statków i samolotów"
-4615,"Działalność agentów zajmujących się sprzedażą mebli, artykułów gospodarstwa domowego i drobnych wyrobów metalowych"
-4616,"Działalność agentów zajmujących się sprzedażą wyrobów tekstylnych, odzieży, wyrobów futrzarskich, obuwia i artykułów skórzanych"
-4617,"Działalność agentów zajmujących się sprzedażą żywności, napojów i wyrobów tytoniowych"
-4618,Działalność agentów specjalizujących się w sprzedaży pozostałych określonych towarów
-4619,Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
-4621,"Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu, nasion i pasz dla zwierząt"
-4622,Sprzedaż hurtowa kwiatów i roślin
-4623,Sprzedaż hurtowa żywych zwierząt
-4624,Sprzedaż hurtowa skór
-4631,Sprzedaż hurtowa owoców i warzyw
-4632,Sprzedaż hurtowa mięsa i wyrobów z mięsa
-4633,"Sprzedaż hurtowa mleka, wyrobów mleczarskich, jaj, olejów i tłuszczów jadalnych"
-4634,Sprzedaż hurtowa napojów alkoholowych i bezalkoholowych
-4635,Sprzedaż hurtowa wyrobów tytoniowych
-4636,"Sprzedaż hurtowa cukru, czekolady, wyrobów cukierniczych i piekarskich"
-4637,"Sprzedaż hurtowa herbaty, kawy, kakao i przypraw"
-4638,"Sprzedaż hurtowa pozostałej żywności, włączając ryby, skorupiaki i mięczaki"
-4639,"Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych"
-6202,Działalność związana z doradztwem w zakresie informatyki
-6203,Działalność związana z zarządzaniem urządzeniami informatycznymi
-6209,Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych
-6311,Przetwarzanie danych; zarządzanie stronami internetowymi (hosting) i podobna działalność
-6312,Działalność portali internetowych
-6391,Działalność agencji informacyjnych
-6399,"Pozostała działalność usługowa w zakresie informacji, gdzie indziej niesklasyfikowana"
-6411,Działalność banku centralnego
-6419,Pozostałe pośrednictwo pieniężne
-6420,Działalność holdingów finansowych
-6430,"Działalność trustów, funduszów i podobnych instytucji finansowych"
-6491,Leasing finansowy
-6492,Pozostałe formy udzielania kredytów
-6499,"Pozostała finansowa działalność usługowa, gdzie indziej niesklasyfikowana, z wyłączeniem ubezpieczeń i funduszów emerytalnych"
-6511,Ubezpieczenia na życie
-6512,Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe
-6520,Reasekuracja
-6530,Fundusze emerytalne
-6611,Zarządzanie rynkami finansowymi
-6612,Działalność maklerska związana z rynkiem papierów wartościowych i towarów giełdowych
-6619,"Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych"
-6621,Działalność związana z oceną ryzyka i szacowaniem poniesionych strat
-6622,Działalność agentów i brokerów ubezpieczeniowych
-6629,Pozostała działalność wspomagająca ubezpieczenia i fundusze emerytalne
-6630,Działalność związana z zarządzaniem funduszami
-6810,Kupno i sprzedaż nieruchomości na własny rachunek
-6820,Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
-6831,Pośrednictwo w obrocie nieruchomościami
-6832,Zarządzanie nieruchomościami wykonywane na zlecenie
-6910,Działalność prawnicza
-6920,Działalność rachunkowo-księgowa; doradztwo podatkowe
-7010,"Działalność firm centralnych (head offices) i holdingów, z wyłączeniem holdingów finansowych"
-7021,Stosunki międzyludzkie (public relations) i komunikacja
-7022,Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
-7111,Działalność w zakresie architektury
-7112,Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
-7120,Badania i analizy techniczne
-7211,Badania naukowe i prace rozwojowe w dziedzinie biotechnologii
-2311,Produkcja szkła płaskiego
-4641,Sprzedaż hurtowa wyrobów tekstylnych
-7219,Badania naukowe i prace rozwojowe w dziedzinie pozostałych nauk przyrodniczych i technicznych
-2312,Kształtowanie i obróbka szkła płaskiego
-2313,Produkcja szkła gospodarczego
-2314,Produkcja włókien szklanych
-2319,"Produkcja i obróbka pozostałego szkła, włączając szkło techniczne"
-2320,Produkcja wyrobów ogniotrwałych
-2331,Produkcja ceramicznych kafli i płytek
-2332,"Produkcja cegieł, dachówek i materiałów budowlanych, z wypalanej gliny"
-2341,Produkcja ceramicznych wyrobów stołowych i ozdobnych
-2342,Produkcja ceramicznych wyrobów sanitarnych
-2343,Produkcja ceramicznych izolatorów i osłon izolacyjnych
-2344,Produkcja pozostałych technicznych wyrobów ceramicznych
-2349,Produkcja pozostałych wyrobów ceramicznych
-2351,Produkcja cementu
-2352,Produkcja wapna i gipsu
-2361,Produkcja wyrobów budowlanych z betonu
-2362,Produkcja wyrobów budowlanych z gipsu
-2363,Produkcja masy betonowej prefabrykowanej
-2364,Produkcja zaprawy murarskiej
-2365,Produkcja cementu wzmocnionego włóknem
-2369,"Produkcja pozostałych wyrobów z betonu, gipsu i cementu"
-2370,"Cięcie, formowanie i wykańczanie kamienia"
-2391,Produkcja wyrobów ściernych
-2399,"Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana"
-2410,"Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
-2420,"Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali"
-2431,Produkcja prętów ciągnionych na zimno
-2432,Produkcja wyrobów płaskich walcowanych na zimno
-2433,Produkcja wyrobów formowanych na zimno
-2434,Produkcja drutu
-2441,Produkcja metali szlachetnych
-2442,Produkcja aluminium
-2443,"Produkcja ołowiu, cynku i cyny"
-2444,Produkcja miedzi
-2445,Produkcja pozostałych metali nieżelaznych
-2446,Wytwarzanie paliw jądrowych
-2451,Odlewnictwo żeliwa
-2452,Odlewnictwo staliwa
-2453,Odlewnictwo metali lekkich
-2454,Odlewnictwo pozostałych metali nieżelaznych
-2511,Produkcja konstrukcji metalowych i ich części
-2512,Produkcja metalowych elementów stolarki budowlanej
-4642,Sprzedaż hurtowa odzieży i obuwia
-4643,Sprzedaż hurtowa elektrycznych artykułów użytku domowego
-4644,"Sprzedaż hurtowa wyrobów porcelanowych, ceramicznych i szklanych oraz środków czyszczących"
-4645,Sprzedaż hurtowa perfum i kosmetyków
-4646,Sprzedaż hurtowa wyrobów farmaceutycznych i medycznych
-4647,"Sprzedaż hurtowa mebli, dywanów i sprzętu oświetleniowego"
-4648,"Sprzedaż hurtowa zegarków, zegarów i biżuterii"
-4649,Sprzedaż hurtowa pozostałych artykułów użytku domowego
-4651,"Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania"
-4652,Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego
-4661,Sprzedaż hurtowa maszyn i urządzeń rolniczych oraz dodatkowego wyposażenia
-4662,Sprzedaż hurtowa obrabiarek
-4663,"Sprzedaż hurtowa maszyn wykorzystywanych w górnictwie, budownictwie oraz inżynierii lądowej i wodnej"
-4664,Sprzedaż hurtowa maszyn dla przemysłu tekstylnego oraz maszyn do szycia i maszyn dziewiarskich
-4665,Sprzedaż hurtowa mebli biurowych
-4666,Sprzedaż hurtowa pozostałych maszyn i urządzeń biurowych
-4669,Sprzedaż hurtowa pozostałych maszyn i urządzeń
-4671,Sprzedaż hurtowa paliw i produktów pochodnych
-4672,Sprzedaż hurtowa metali i rud metali
-4673,"Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego"
-4674,Sprzedaż hurtowa wyrobów metalowych oraz sprzętu i dodatkowego wyposażenia hydraulicznego i grzejnego
-4675,Sprzedaż hurtowa wyrobów chemicznych
-4676,Sprzedaż hurtowa pozostałych półproduktów
-4677,Sprzedaż hurtowa odpadów i złomu
-4690,Sprzedaż hurtowa niewyspecjalizowana
-4711,"Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych"
-4719,Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
-4721,Sprzedaż detaliczna owoców i warzyw prowadzona w wyspecjalizowanych sklepach
-4722,Sprzedaż detaliczna mięsa i wyrobów z mięsa prowadzona w wyspecjalizowanych sklepach
-4723,"Sprzedaż detaliczna ryb, skorupiaków i mięczaków prowadzona w wyspecjalizowanych sklepach"
-4724,"Sprzedaż detaliczna pieczywa, ciast, wyrobów ciastkarskich i cukierniczych prowadzona w wyspecjalizowanych sklepach"
-4725,Sprzedaż detaliczna napojów alkoholowych i bezalkoholowych prowadzona w wyspecjalizowanych sklepach
-4726,Sprzedaż detaliczna wyrobów tytoniowych prowadzona w wyspecjalizowanych sklepach
-4729,Sprzedaż detaliczna pozostałej żywności prowadzona w wyspecjalizowanych sklepach
-4730,Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw
-4741,"Sprzedaż detaliczna komputerów, urządzeń peryferyjnych i oprogramowania prowadzona w wyspecjalizowanych sklepach"
-7220,Badania naukowe i prace rozwojowe w dziedzinie nauk społecznych i humanistycznych
-7311,Działalność agencji reklamowych
-7312,Działalność związana z reprezentowaniem mediów
-7320,Badanie rynku i opinii publicznej
-7410,Działalność w zakresie specjalistycznego projektowania
-7420,Działalność fotograficzna
-7430,Działalność związana z tłumaczeniami
-7490,"Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana"
-7500,DZIAŁALNOŚĆ WETERYNARYJNA
-7711,Wynajem i dzierżawa samochodów osobowych i furgonetek
-7712,"Wynajem i dzierżawa pozostałych pojazdów samochodowych, z wyłączeniem motocykli"
-7721,Wypożyczanie i dzierżawa sprzętu rekreacyjnego i sportowego
-7722,"Wypożyczanie kaset wideo, płyt CD, DVD itp."
-7729,Wypożyczanie i dzierżawa pozostałych artykułów użytku osobistego i domowego
-7731,Wynajem i dzierżawa maszyn i urządzeń rolniczych
-7732,Wynajem i dzierżawa maszyn i urządzeń budowlanych
-7733,"Wynajem i dzierżawa maszyn i urządzeń biurowych, włączając komputery"
-7734,Wynajem i dzierżawa środków transportu wodnego
-7735,Wynajem i dzierżawa środków transportu lotniczego
-7739,"Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych, gdzie indziej niesklasyfikowane"
-7740,"Dzierżawa własności intelektualnej i podobnych produktów, z wyłączeniem prac chronionych prawem autorskim"
-7810,Działalność związana z wyszukiwaniem miejsc pracy i pozyskiwaniem pracowników
-7820,Działalność agencji pracy tymczasowej
-7830,Pozostała działalność związana z udostępnianiem pracowników
-7911,Działalność agentów i pośredników turystycznych
-7912,Działalność organizatorów turystyki
-7990,Pozostała działalność usługowa w zakresie rezerwacji i działalności z nią związane
-8010,"Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa"
-8020,Działalność ochroniarska w zakresie obsługi systemów bezpieczeństwa
-8030,Działalność detektywistyczna
-8110,Działalność pomocnicza związana z utrzymaniem porządku w budynkach
-8121,Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
-8122,Specjalistyczne sprzątanie budynków i obiektów przemysłowych
-8129,Pozostałe sprzątanie
-8130,Działalność usługowa związana z zagospodarowaniem terenów zieleni
-8211,Działalność usługowa związana z administracyjną obsługą biura
-8219,"Wykonywanie fotokopii, przygotowywanie dokumentów i pozostała specjalistyczna działalność wspomagająca prowadzenie biura"
-8220,Działalność centrów telefonicznych (call center)
-2521,Produkcja grzejników i kotłów centralnego ogrzewania
-4742,Sprzedaż detaliczna sprzętu telekomunikacyjnego prowadzona w wyspecjalizowanych sklepach
-8230,"Działalność związana z organizacją targów, wystaw i kongresów"
-0111,"Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
-0112,Uprawa ryżu
-0113,"Uprawa warzyw, włączając melony oraz uprawa roślin korzeniowych i roślin bulwiastych"
-0114,Uprawa trzciny cukrowej
-0115,Uprawa tytoniu
-0116,Uprawa roślin włóknistych
-0119,Pozostałe uprawy rolne inne niż wieloletnie
-0121,Uprawa winogron
-0122,Uprawa drzew i krzewów owocowych tropikalnych i podzwrotnikowych
-0123,Uprawa drzew i krzewów owocowych cytrusowych
-0124,Uprawa drzew i krzewów owocowych ziarnkowych i pestkowych
-0125,Uprawa pozostałych drzew i krzewów owocowych oraz orzechów
-0126,Uprawa drzew oleistych
-0127,Uprawa roślin wykorzystywanych do produkcji napojów
-0128,Uprawa roślin przyprawowych i aromatycznych oraz roślin wykorzystywanych do produkcji leków i wyrobów farmaceutycznych
-0129,Uprawa pozostałych roślin wieloletnich
-0130,Rozmnażanie roślin
-0141,Chów i hodowla bydła mlecznego
-0142,Chów i hodowla pozostałego bydła i bawołów
-0143,Chów i hodowla koni i pozostałych zwierząt koniowatych
-0144,Chów i hodowla wielbłądów i zwierząt wielbłądowatych
-0145,Chów i hodowla owiec i kóz
-0146,Chów i hodowla świń
-0147,Chów i hodowla drobiu
-0149,Chów i hodowla pozostałych zwierząt
-0150,Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)
-2529,"Produkcja pozostałych zbiorników, cystern i pojemników metalowych"
-2530,"Produkcja wytwornic pary, z wyłączeniem kotłów do centralnego ogrzewania gorącą wodą"
-2540,Produkcja broni i amunicji
-2550,"Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków"
-2561,Obróbka metali i nakładanie powłok na metale
-2562,Obróbka mechaniczna elementów metalowych
-2571,Produkcja wyrobów nożowniczych i sztućców
-2572,Produkcja zamków i zawiasów
-2573,Produkcja narzędzi
-2591,Produkcja pojemników metalowych
-2592,Produkcja opakowań z metali
-2593,"Produkcja wyrobów z drutu, łańcuchów i sprężyn"
-2594,Produkcja złączy i śrub
-2599,"Produkcja pozostałych gotowych wyrobów metalowych, gdzie indziej niesklasyfikowana"
-2611,Produkcja elementów elektronicznych
-2612,Produkcja elektronicznych obwodów drukowanych
-2620,Produkcja komputerów i urządzeń peryferyjnych
-2630,Produkcja sprzętu (tele)komunikacyjnego
-2640,Produkcja elektronicznego sprzętu powszechnego użytku
-2651,"Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych"
-2652,Produkcja zegarków i zegarów
-2660,"Produkcja urządzeń napromieniowujących, sprzętu elektromedycznego i elektroterapeutycznego"
-2670,Produkcja instrumentów optycznych i sprzętu fotograficznego
-2680,Produkcja magnetycznych i optycznych niezapisanych nośników informacji
-2711,"Produkcja elektrycznych silników, prądnic i transformatorów"
-2712,Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej
-2720,Produkcja baterii i akumulatorów
-2731,Produkcja kabli światłowodowych
-2732,Produkcja pozostałych elektronicznych i elektrycznych przewodów i kabli
-2733,Produkcja sprzętu instalacyjnego
-2740,Produkcja elektrycznego sprzętu oświetleniowego
-2751,Produkcja elektrycznego sprzętu gospodarstwa domowego
-2752,Produkcja nieelektrycznego sprzętu gospodarstwa domowego
-2790,Produkcja pozostałego sprzętu elektrycznego
-2811,"Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych i motocyklowych"
-2812,Produkcja sprzętu i wyposażenia do napędu hydraulicznego i pneumatycznego
-2813,Produkcja pozostałych pomp i sprężarek
-2814,Produkcja pozostałych kurków i zaworów
-2815,"Produkcja łożysk, kół zębatych, przekładni zębatych i elementów napędowych"
-2821,"Produkcja pieców, palenisk i palników piecowych"
-0161,Działalność usługowa wspomagająca produkcję roślinną
-0162,Działalność usługowa wspomagająca chów i hodowlę zwierząt gospodarskich
-0163,Działalność usługowa następująca po zbiorach
-0164,Obróbka nasion dla celów rozmnażania roślin
-2822,Produkcja urządzeń dźwigowych i chwytaków
-2823,"Produkcja maszyn i sprzętu biurowego, z wyłączeniem komputerów i urządzeń peryferyjnych"
-2824,Produkcja narzędzi ręcznych mechanicznych
-2825,Produkcja przemysłowych urządzeń chłodniczych i wentylacyjnych
-2829,"Produkcja pozostałych maszyn ogólnego przeznaczenia, gdzie indziej niesklasyfikowana"
-2830,Produkcja maszyn dla rolnictwa i leśnictwa
-2841,Produkcja maszyn do obróbki metalu
-2849,Produkcja pozostałych narzędzi mechanicznych
-2891,Produkcja maszyn dla metalurgii
-2892,Produkcja maszyn dla górnictwa i do wydobywania oraz budownictwa
-2893,"Produkcja maszyn stosowanych w przetwórstwie żywności, tytoniu i produkcji napojów"
-2894,"Produkcja maszyn dla przemysłu tekstylnego, odzieżowego i skórzanego"
-2895,Produkcja maszyn dla przemysłu papierniczego
-2896,Produkcja maszyn do obróbki gumy lub tworzyw sztucznych oraz wytwarzania wyrobów z tych materiałów
-2899,"Produkcja pozostałych maszyn specjalnego przeznaczenia, gdzie indziej niesklasyfikowana"
-2910,"Produkcja pojazdów samochodowych, z wyłączeniem motocykli"
-2920,Produkcja nadwozi do pojazdów silnikowych; produkcja przyczep i naczep
-2931,Produkcja wyposażenia elektrycznego i elektronicznego do pojazdów silnikowych
-2932,"Produkcja pozostałych części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli"
-3011,Produkcja statków i konstrukcji pływających
-3012,Produkcja łodzi wycieczkowych i sportowych
-3020,Produkcja lokomotyw kolejowych oraz taboru szynowego
-3030,"Produkcja statków powietrznych, statków kosmicznych i podobnych maszyn"
-3040,Produkcja wojskowych pojazdów bojowych
-3091,Produkcja motocykli
-3092,Produkcja rowerów i wózków inwalidzkich
-3099,"Produkcja pozostałego sprzętu transportowego, gdzie indziej niesklasyfikowana"
-3101,Produkcja mebli biurowych i sklepowych
-3102,Produkcja mebli kuchennych
-3103,Produkcja materaców
-3109,Produkcja pozostałych mebli
-3211,Produkcja monet
-3212,Produkcja wyrobów jubilerskich i podobnych
-3213,Produkcja sztucznej biżuterii i wyrobów podobnych
-3220,Produkcja instrumentów muzycznych
-3230,Produkcja sprzętu sportowego
-3240,Produkcja gier i zabawek
-3250,"Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne"
-3291,"Produkcja mioteł, szczotek i pędzli"
-4743,Sprzedaż detaliczna sprzętu audiowizualnego prowadzona w wyspecjalizowanych sklepach
-4751,Sprzedaż detaliczna wyrobów tekstylnych prowadzona w wyspecjalizowanych sklepach
-4752,"Sprzedaż detaliczna drobnych wyrobów metalowych, farb i szkła prowadzona w wyspecjalizowanych sklepach"
-4753,"Sprzedaż detaliczna dywanów, chodników i innych pokryć podłogowych oraz pokryć ściennych prowadzona w wyspecjalizowanych sklepach"
-4754,Sprzedaż detaliczna elektrycznego sprzętu gospodarstwa domowego prowadzona w wyspecjalizowanych sklepach
-4759,"Sprzedaż detaliczna mebli, sprzętu oświetleniowego i pozostałych artykułów użytku domowego prowadzona w wyspecjalizowanych sklepach"
-4761,Sprzedaż detaliczna książek prowadzona w wyspecjalizowanych sklepach
-4762,Sprzedaż detaliczna gazet i artykułów piśmiennych prowadzona w wyspecjalizowanych sklepach
-4763,Sprzedaż detaliczna nagrań dźwiękowych i audiowizualnych prowadzona w wyspecjalizowanych sklepach
-4764,Sprzedaż detaliczna sprzętu sportowego prowadzona w wyspecjalizowanych sklepach
-4765,Sprzedaż detaliczna gier i zabawek prowadzona w wyspecjalizowanych sklepach
-4771,Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
-4772,Sprzedaż detaliczna obuwia i wyrobów skórzanych prowadzona w wyspecjalizowanych sklepach
-4773,Sprzedaż detaliczna wyrobów farmaceutycznych prowadzona w wyspecjalizowanych sklepach
-4774,"Sprzedaż detaliczna wyrobów medycznych, włączając ortopedyczne, prowadzona w wyspecjalizowanych sklepach"
-4775,Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach
-4776,"Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach"
-4777,"Sprzedaż detaliczna zegarków, zegarów i biżuterii prowadzona w wyspecjalizowanych sklepach"
-4778,Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
-4779,Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
-4781,"Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach"
-4782,"Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach"
-4789,Sprzedaż detaliczna pozostałych wyrobów prowadzona na straganach i targowiskach
-4791,Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
-4799,"Pozostała sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami"
-4910,Transport kolejowy pasażerski międzymiastowy
-4920,Transport kolejowy towarów
-4931,"Transport lądowy pasażerski, miejski i podmiejski"
-4932,Działalność taksówek osobowych
-4939,"Pozostały transport lądowy pasażerski, gdzie indziej niesklasyfikowany"
-4941,Transport drogowy towarów
-4942,Działalność usługowa związana z przeprowadzkami
-4950,Transport rurociągowy
-5010,Transport morski i przybrzeżny pasażerski
-8291,Działalność świadczona przez agencje inkasa i biura kredytowe
-8292,Działalność związana z pakowaniem
-8299,"Pozostała działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowana"
-8411,Kierowanie podstawowymi rodzajami działalności publicznej
-8412,"Kierowanie w zakresie działalności związanej z ochroną zdrowia, edukacją, kulturą oraz pozostałymi usługami społecznymi, z wyłączeniem zabezpieczeń społecznych"
-8413,Kierowanie w zakresie efektywności gospodarowania
-8421,Sprawy zagraniczne
-8422,Obrona narodowa
-8423,Wymiar sprawiedliwości
-8424,"Bezpieczeństwo państwa, porządek i bezpieczeństwo publiczne"
-8425,Ochrona przeciwpożarowa
-8430,Obowiązkowe zabezpieczenia społeczne
-8510,Wychowanie przedszkolne
-8520,Szkoły podstawowe
-8531,"Gimnazja, licea ogólnokształcące i profilowane"
-8532,"Szkoły zawodowe, z wyłączeniem szkół policealnych"
-8541,Szkoły policealne
-8542,"Zakłady kształcenia nauczycieli, kolegia pracowników służb społecznych oraz szkoły wyższe"
-8551,Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
-8552,Pozaszkolne formy edukacji artystycznej
-8553,Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu
-8559,"Pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane"
-8560,Działalność wspomagająca edukację
-8610,Działalność szpitali
-8621,Praktyka lekarska ogólna
-8622,Praktyka lekarska specjalistyczna
-8623,Praktyka lekarska dentystyczna
-8690,Pozostała działalność w zakresie opieki zdrowotnej
-8710,Pomoc społeczna z zakwaterowaniem zapewniająca opiekę pielęgniarską
-8720,Pomoc społeczna z zakwaterowaniem dla osób z zaburzeniami psychicznymi
-8730,Pomoc społeczna z zakwaterowaniem dla osób w podeszłym wieku i osób niepełnosprawnych
-8790,Pozostała pomoc społeczna z zakwaterowaniem
-8810,Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych
-8891,Opieka dzienna nad dziećmi
-8899,"Pozostała pomoc społeczna bez zakwaterowania, gdzie indziej niesklasyfikowana"
-9001,Działalność związana z wystawianiem przedstawień artystycznych
-9002,Działalność wspomagająca wystawianie przedstawień artystycznych
-9003,Artystyczna i literacka działalność twórcza
-9004,Działalność obiektów kulturalnych
+symbol,name,parent
+0170,"Łowiectwo i pozyskiwanie zwierząt łownych, włączając działalność usługową",017
+3299,"Produkcja pozostałych wyrobów, gdzie indziej niesklasyfikowana",329
+5020,Transport morski i przybrzeżny towarów,502
+9101,Działalność bibliotek i archiwów,910
+0210,"Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych",021
+0220,Pozyskiwanie drewna,022
+0230,"Pozyskiwanie dziko rosnących produktów leśnych, z wyłączeniem drewna",023
+0240,Działalność usługowa związana z leśnictwem,024
+0311,Rybołówstwo w wodach morskich,031
+0312,Rybołówstwo w wodach śródlądowych,031
+0321,Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach morskich,032
+0322,Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach śródlądowych,032
+0510,Wydobywanie węgla kamiennego,051
+0520,Wydobywanie węgla brunatnego (lignitu),052
+0610,Górnictwo ropy naftowej,061
+0620,Górnictwo gazu ziemnego,062
+0710,Górnictwo rud żelaza,071
+0721,Górnictwo rud uranu i toru,072
+0729,Górnictwo pozostałych rud metali nieżelaznych,072
+0811,"Wydobywanie kamieni ozdobnych oraz kamienia dla potrzeb budownictwa, skał wapiennych, gipsu, kredy i łupków",081
+0812,Wydobywanie żwiru i piasku; wydobywanie gliny i kaolinu,081
+0891,Wydobywanie minerałów dla przemysłu chemicznego oraz do produkcji nawozów,089
+0892,Wydobywanie torfu,089
+0893,Wydobywanie soli,089
+0899,"Pozostałe górnictwo i wydobywanie, gdzie indziej niesklasyfikowane",089
+0910,Działalność usługowa wspomagająca eksploatację złóż ropy naftowej i gazu ziemnego,091
+0990,Działalność usługowa wspomagająca pozostałe górnictwo i wydobywanie,099
+1011,"Przetwarzanie i konserwowanie mięsa, z wyłączeniem mięsa z drobiu",101
+1012,Przetwarzanie i konserwowanie mięsa z drobiu,101
+1013,"Produkcja wyrobów z mięsa, włączając wyroby z mięsa drobiowego",101
+1020,"Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków",102
+1031,Przetwarzanie i konserwowanie ziemniaków,103
+1032,Produkcja soków z owoców i warzyw,103
+1039,Pozostałe przetwarzanie i konserwowanie owoców i warzyw,103
+1041,Produkcja olejów i pozostałych tłuszczów płynnych,104
+1042,Produkcja margaryny i podobnych tłuszczów jadalnych,104
+1051,Przetwórstwo mleka i wyrób serów,105
+1052,Produkcja lodów,105
+1061,Wytwarzanie produktów przemiału zbóż,106
+1062,Wytwarzanie skrobi i wyrobów skrobiowych,106
+1071,Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek,107
+1072,Produkcja sucharów i herbatników; produkcja konserwowanych wyrobów ciastkarskich i ciastek,107
+1073,"Produkcja makaronów, klusek, kuskusu i podobnych wyrobów mącznych",107
+3311,Naprawa i konserwacja metalowych wyrobów gotowych,331
+3312,Naprawa i konserwacja maszyn,331
+3313,Naprawa i konserwacja urządzeń elektronicznych i optycznych,331
+3314,Naprawa i konserwacja urządzeń elektrycznych,331
+3315,Naprawa i konserwacja statków i łodzi,331
+3316,Naprawa i konserwacja statków powietrznych i statków kosmicznych,331
+3317,Naprawa i konserwacja pozostałego sprzętu transportowego,331
+3319,Naprawa i konserwacja pozostałego sprzętu i wyposażenia,331
+3320,"Instalowanie maszyn przemysłowych, sprzętu i wyposażenia",332
+3511,Wytwarzanie energii elektrycznej,351
+3512,Przesyłanie energii elektrycznej,351
+3513,Dystrybucja energii elektrycznej,351
+3514,Handel energią elektryczną,351
+3521,Wytwarzanie paliw gazowych,352
+3522,Dystrybucja paliw gazowych w systemie sieciowym,352
+3523,Handel paliwami gazowymi w systemie sieciowym,352
+3530,"Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych",353
+3600,"POBÓR, UZDATNIANIE I DOSTARCZANIE WODY",360
+3700,ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW,370
+3811,Zbieranie odpadów innych niż niebezpieczne,381
+3812,Zbieranie odpadów niebezpiecznych,381
+3821,Obróbka i usuwanie odpadów innych niż niebezpieczne,382
+3822,Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych,382
+3831,Demontaż wyrobów zużytych,383
+3832,Odzysk surowców z materiałów segregowanych,383
+3900,DZIAŁALNOŚĆ ZWIĄZANA Z REKULTYWACJĄ I POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z GOSPODARKĄ ODPADAMI,390
+4110,Realizacja projektów budowlanych związanych ze wznoszeniem budynków,411
+4120,Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych,412
+4211,Roboty związane z budową dróg i autostrad,421
+4212,Roboty związane z budową dróg szynowych i kolei podziemnej,421
+4213,Roboty związane z budową mostów i tuneli,421
+4221,Roboty związane z budową rurociągów przesyłowych i sieci rozdzielczych,422
+4222,Roboty związane z budową linii telekomunikacyjnych i elektroenergetycznych,422
+4291,Roboty związane z budową obiektów inżynierii wodnej,429
+4299,"Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej, gdzie indziej niesklasyfikowane",429
+4311,Rozbiórka i burzenie obiektów budowlanych,431
+4312,Przygotowanie terenu pod budowę,431
+4313,Wykonywanie wykopów i wierceń geologiczno-inżynierskich,431
+4321,Wykonywanie instalacji elektrycznych,432
+5030,Transport wodny śródlądowy pasażerski ,503
+5040,Transport wodny śródlądowy towarów,504
+5110,Transport lotniczy pasażerski,511
+5121,Transport lotniczy towarów,512
+5122,Transport kosmiczny,512
+5210,Magazynowanie i przechowywanie towarów,521
+5221,Działalność usługowa wspomagająca transport lądowy,522
+5222,Działalność usługowa wspomagająca transport wodny,522
+5223,Działalność usługowa wspomagająca transport lotniczy,522
+5224,Przeładunek towarów,522
+5229,Pozostała działalność usługowa wspomagająca transport,522
+5310,Działalność pocztowa objęta obowiązkiem świadczenia usług powszechnych (operatora publicznego),531
+5320,Pozostała działalność pocztowa i kurierska,532
+5510,Hotele i podobne obiekty zakwaterowania,551
+5520,Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania,552
+5530,Pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe,553
+5590,Pozostałe zakwaterowanie,559
+5610,Restauracje i pozostałe placówki gastronomiczne,561
+5621,Przygotowywanie i dostarczanie żywności dla odbiorców zewnętrznych (katering),562
+5629,Pozostała usługowa działalność gastronomiczna,562
+5630,Przygotowywanie i podawanie napojów,563
+5811,Wydawanie książek,581
+5812,"Wydawanie wykazów oraz list (np. adresowych, telefonicznych)",581
+5813,Wydawanie gazet,581
+5814,Wydawanie czasopism i pozostałych periodyków,581
+5819,Pozostała działalność wydawnicza,581
+5821,Działalność wydawnicza w zakresie gier komputerowych,582
+5829,Działalność wydawnicza w zakresie pozostałego oprogramowania,582
+5911,"Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych",591
+5912,"Działalność postprodukcyjna związana z filmami, nagraniami wideo i programami telewizyjnymi",591
+5913,"Działalność związana z dystrybucją filmów, nagrań wideo i programów telewizyjnych",591
+5914,Działalność związana z projekcją filmów,591
+5920,Działalność w zakresie nagrań dźwiękowych i muzycznych,592
+6010,Nadawanie programów radiofonicznych,601
+6020,Nadawanie programów telewizyjnych ogólnodostępnych i abonamentowych,602
+6110,Działalność w zakresie telekomunikacji przewodowej,611
+6120,"Działalność w zakresie telekomunikacji bezprzewodowej, z wyłączeniem telekomunikacji satelitarnej",612
+6130,Działalność w zakresie telekomunikacji satelitarnej,613
+6190,Działalność w zakresie pozostałej telekomunikacji,619
+9102,Działalność muzeów,910
+9103,Działalność historycznych miejsc i budynków oraz podobnych atrakcji turystycznych,910
+9104,Działalność ogrodów botanicznych i zoologicznych oraz obszarów i obiektów ochrony przyrody,910
+9200,DZIAŁALNOŚĆ ZWIĄZANA Z GRAMI LOSOWYMI I ZAKŁADAMI WZAJEMNYMI,920
+9311,Działalność obiektów sportowych,931
+9312,Działalność klubów sportowych,931
+9313,Działalność obiektów służących poprawie kondycji fizycznej,931
+9319,Pozostała działalność związana ze sportem,931
+9321,Działalność wesołych miasteczek i parków rozrywki,932
+9329,Pozostała działalność rozrywkowa i rekreacyjna,932
+9411,Działalność organizacji komercyjnych i pracodawców,941
+9412,Działalność organizacji profesjonalnych,941
+9420,Działalność związków zawodowych,942
+9491,Działalność organizacji religijnych,949
+9492,Działalność organizacji politycznych,949
+9499,"Działalność pozostałych organizacji członkowskich, gdzie indziej niesklasyfikowana",949
+9511,Naprawa i konserwacja komputerów i urządzeń peryferyjnych,951
+9512,Naprawa i konserwacja sprzętu (tele)komunikacyjnego,951
+9521,Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku,952
+9522,Naprawa i konserwacja urządzeń gospodarstwa domowego oraz sprzętu użytku domowego i ogrodniczego,952
+9523,Naprawa obuwia i wyrobów skórzanych,952
+9524,Naprawa i konserwacja mebli i wyposażenia domowego,952
+9525,"Naprawa zegarów, zegarków oraz biżuterii",952
+9529,Naprawa pozostałych artykułów użytku osobistego i domowego,952
+9601,Pranie i czyszczenie wyrobów włókienniczych i futrzarskich,960
+9602,Fryzjerstwo i pozostałe zabiegi kosmetyczne,960
+9603,Pogrzeby i działalność pokrewna,960
+9604,Działalność usługowa związana z poprawą kondycji fizycznej,960
+9609,"Pozostała działalność usługowa, gdzie indziej niesklasyfikowana",960
+9700,GOSPODARSTWA DOMOWE ZATRUDNIAJĄCE PRACOWNIKÓW,970
+9810,Gospodarstwa domowe produkujące wyroby na własne potrzeby,981
+9820,Gospodarstwa domowe świadczące usługi na własne potrzeby,982
+9900,ORGANIZACJE I ZESPOŁY EKSTERYTORIALNE,990
+1081,Produkcja cukru,108
+4322,"Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych",432
+6201,Działalność związana z oprogramowaniem,620
+1082,"Produkcja kakao, czekolady i wyrobów cukierniczych",108
+1083,Przetwórstwo herbaty i kawy,108
+1084,Produkcja przypraw,108
+1085,Wytwarzanie gotowych posiłków i dań,108
+1086,Produkcja artykułów spożywczych homogenizowanych i żywności dietetycznej,108
+1089,"Produkcja pozostałych artykułów spożywczych, gdzie indziej niesklasyfikowana",108
+1091,Produkcja gotowej paszy dla zwierząt gospodarskich,109
+1092,Produkcja gotowej karmy dla zwierząt domowych,109
+1101,"Destylowanie, rektyfikowanie i mieszanie alkoholi",110
+1102,Produkcja win gronowych,110
+1103,Produkcja cydru i pozostałych win owocowych,110
+1104,Produkcja pozostałych niedestylowanych napojów fermentowanych,110
+1105,Produkcja piwa,110
+1106,Produkcja słodu,110
+1107,Produkcja napojów bezalkoholowych; produkcja wód mineralnych i pozostałych wód butelkowanych,110
+1200,PRODUKCJA WYROBÓW TYTONIOWYCH,120
+1310,Przygotowanie i przędzenie włókien tekstylnych,131
+1320,Produkcja tkanin,132
+1330,Wykończanie wyrobów włókienniczych,133
+1391,Produkcja dzianin metrażowych,139
+1392,Produkcja gotowych wyrobów tekstylnych,139
+1393,Produkcja dywanów i chodników,139
+1394,"Produkcja wyrobów powroźniczych, lin, szpagatów i wyrobów sieciowych",139
+1395,"Produkcja włóknin i wyrobów wykonanych z włóknin, z wyłączeniem odzieży",139
+1396,Produkcja pozostałych technicznych i przemysłowych wyrobów tekstylnych,139
+1399,"Produkcja pozostałych wyrobów tekstylnych, gdzie indziej niesklasyfikowana",139
+1411,Produkcja odzieży skórzanej,141
+1412,Produkcja odzieży roboczej,141
+1413,Produkcja pozostałej odzieży wierzchniej,141
+1414,Produkcja bielizny,141
+1419,Produkcja pozostałej odzieży i dodatków do odzieży,141
+1420,Produkcja wyrobów futrzarskich,142
+1431,Produkcja wyrobów pończoszniczych,143
+1439,Produkcja pozostałej odzieży dzianej,143
+1511,"Wyprawa skór, garbowanie; wyprawa i barwienie skór futerkowych",151
+1512,"Produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich",151
+1520,Produkcja obuwia,152
+1610,Produkcja wyrobów tartacznych,161
+1621,Produkcja arkuszy fornirowych i płyt wykonanych na bazie drewna,162
+1622,Produkcja gotowych parkietów podłogowych,162
+1623,Produkcja pozostałych wyrobów stolarskich i ciesielskich dla budownictwa,162
+1624,Produkcja opakowań drewnianych,162
+1629,"Produkcja pozostałych wyrobów z drewna; produkcja wyrobów z korka, słomy i materiałów używanych do wyplatania",162
+1711,Produkcja masy włóknistej,171
+1712,Produkcja papieru i tektury,171
+1721,Produkcja papieru falistego i tektury falistej oraz opakowań z papieru i tektury,172
+1722,"Produkcja artykułów gospodarstwa domowego, toaletowych i sanitarnych",172
+1723,Produkcja artykułów piśmiennych,172
+1724,Produkcja tapet,172
+1729,Produkcja pozostałych wyrobów z papieru i tektury,172
+1811,Drukowanie gazet,181
+1812,Pozostałe drukowanie,181
+1813,Działalność usługowa związana z przygotowywaniem do druku,181
+1814,Introligatorstwo i podobne usługi,181
+1820,Reprodukcja zapisanych nośników informacji,182
+1910,Wytwarzanie i przetwarzanie koksu,191
+1920,Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej,192
+2011,Produkcja gazów technicznych,201
+2012,Produkcja barwników i pigmentów,201
+2013,Produkcja pozostałych podstawowych chemikaliów nieorganicznych,201
+2014,Produkcja pozostałych podstawowych chemikaliów organicznych,201
+2015,Produkcja nawozów i związków azotowych,201
+2016,Produkcja tworzyw sztucznych w formach podstawowych,201
+2017,Produkcja kauczuku syntetycznego w formach podstawowych,201
+2020,Produkcja pestycydów i pozostałych środków agrochemicznych,202
+2030,"Produkcja farb, lakierów i podobnych powłok, farb drukarskich i mas uszczelniających",203
+2041,"Produkcja mydła i detergentów, środków myjących i czyszczących",204
+2042,Produkcja wyrobów kosmetycznych i toaletowych,204
+2051,Produkcja materiałów wybuchowych,205
+2052,Produkcja klejów,205
+2053,Produkcja olejków eterycznych,205
+2059,"Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana",205
+2060,Produkcja włókien chemicznych,206
+2110,Produkcja podstawowych substancji farmaceutycznych,211
+2120,Produkcja leków i pozostałych wyrobów farmaceutycznych,212
+2211,Produkcja opon i dętek z gumy; bieżnikowanie i regenerowanie opon z gumy,221
+2219,Produkcja pozostałych wyrobów z gumy,221
+2221,"Produkcja płyt, arkuszy, rur i kształtowników z tworzyw sztucznych",222
+2222,Produkcja opakowań z tworzyw sztucznych,222
+2223,Produkcja wyrobów dla budownictwa z tworzyw sztucznych,222
+2229,Produkcja pozostałych wyrobów z tworzyw sztucznych,222
+4329,Wykonywanie pozostałych instalacji budowlanych,432
+4331,Tynkowanie,433
+4332,Zakładanie stolarki budowlanej,433
+4333,Posadzkarstwo; tapetowanie i oblicowywanie ścian,433
+4334,Malowanie i szklenie,433
+4339,Wykonywanie pozostałych robót budowlanych wykończeniowych,433
+4391,Wykonywanie konstrukcji i pokryć dachowych,439
+4399,"Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane",439
+4511,Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek,451
+4519,"Sprzedaż hurtowa i detaliczna pozostałych pojazdów samochodowych, z wyłączeniem motocykli",451
+4520,"Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli",452
+4531,"Sprzedaż hurtowa części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli",453
+4532,"Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli",453
+4540,"Sprzedaż hurtowa i detaliczna motocykli, ich naprawa i konserwacja oraz sprzedaż hurtowa i detaliczna części i akcesoriów do nich",454
+4611,"Działalność agentów zajmujących się sprzedażą płodów rolnych, żywych zwierząt, surowców dla przemysłu tekstylnego i półproduktów",461
+4612,"Działalność agentów zajmujących się sprzedażą paliw, rud, metali i chemikaliów przemysłowych",461
+4613,Działalność agentów zajmujących się sprzedażą drewna i materiałów budowlanych,461
+4614,"Działalność agentów zajmujących się sprzedażą maszyn, urządzeń przemysłowych, statków i samolotów",461
+4615,"Działalność agentów zajmujących się sprzedażą mebli, artykułów gospodarstwa domowego i drobnych wyrobów metalowych",461
+4616,"Działalność agentów zajmujących się sprzedażą wyrobów tekstylnych, odzieży, wyrobów futrzarskich, obuwia i artykułów skórzanych",461
+4617,"Działalność agentów zajmujących się sprzedażą żywności, napojów i wyrobów tytoniowych",461
+4618,Działalność agentów specjalizujących się w sprzedaży pozostałych określonych towarów,461
+4619,Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju,461
+4621,"Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu, nasion i pasz dla zwierząt",462
+4622,Sprzedaż hurtowa kwiatów i roślin,462
+4623,Sprzedaż hurtowa żywych zwierząt,462
+4624,Sprzedaż hurtowa skór,462
+4631,Sprzedaż hurtowa owoców i warzyw,463
+4632,Sprzedaż hurtowa mięsa i wyrobów z mięsa,463
+4633,"Sprzedaż hurtowa mleka, wyrobów mleczarskich, jaj, olejów i tłuszczów jadalnych",463
+4634,Sprzedaż hurtowa napojów alkoholowych i bezalkoholowych,463
+4635,Sprzedaż hurtowa wyrobów tytoniowych,463
+4636,"Sprzedaż hurtowa cukru, czekolady, wyrobów cukierniczych i piekarskich",463
+4637,"Sprzedaż hurtowa herbaty, kawy, kakao i przypraw",463
+4638,"Sprzedaż hurtowa pozostałej żywności, włączając ryby, skorupiaki i mięczaki",463
+4639,"Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych",463
+6202,Działalność związana z doradztwem w zakresie informatyki,620
+6203,Działalność związana z zarządzaniem urządzeniami informatycznymi,620
+6209,Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych,620
+6311,Przetwarzanie danych; zarządzanie stronami internetowymi (hosting) i podobna działalność,631
+6312,Działalność portali internetowych,631
+6391,Działalność agencji informacyjnych,639
+6399,"Pozostała działalność usługowa w zakresie informacji, gdzie indziej niesklasyfikowana",639
+6411,Działalność banku centralnego,641
+6419,Pozostałe pośrednictwo pieniężne,641
+6420,Działalność holdingów finansowych,642
+6430,"Działalność trustów, funduszów i podobnych instytucji finansowych",643
+6491,Leasing finansowy,649
+6492,Pozostałe formy udzielania kredytów,649
+6499,"Pozostała finansowa działalność usługowa, gdzie indziej niesklasyfikowana, z wyłączeniem ubezpieczeń i funduszów emerytalnych",649
+6511,Ubezpieczenia na życie,651
+6512,Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe,651
+6520,Reasekuracja,652
+6530,Fundusze emerytalne,653
+6611,Zarządzanie rynkami finansowymi,661
+6612,Działalność maklerska związana z rynkiem papierów wartościowych i towarów giełdowych,661
+6619,"Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych",661
+6621,Działalność związana z oceną ryzyka i szacowaniem poniesionych strat,662
+6622,Działalność agentów i brokerów ubezpieczeniowych,662
+6629,Pozostała działalność wspomagająca ubezpieczenia i fundusze emerytalne,662
+6630,Działalność związana z zarządzaniem funduszami,663
+6810,Kupno i sprzedaż nieruchomości na własny rachunek,681
+6820,Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi,682
+6831,Pośrednictwo w obrocie nieruchomościami,683
+6832,Zarządzanie nieruchomościami wykonywane na zlecenie,683
+6910,Działalność prawnicza,691
+6920,Działalność rachunkowo-księgowa; doradztwo podatkowe,692
+7010,"Działalność firm centralnych (head offices) i holdingów, z wyłączeniem holdingów finansowych",701
+7021,Stosunki międzyludzkie (public relations) i komunikacja,702
+7022,Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania,702
+7111,Działalność w zakresie architektury,711
+7112,Działalność w zakresie inżynierii i związane z nią doradztwo techniczne,711
+7120,Badania i analizy techniczne,712
+7211,Badania naukowe i prace rozwojowe w dziedzinie biotechnologii,721
+2311,Produkcja szkła płaskiego,231
+4641,Sprzedaż hurtowa wyrobów tekstylnych,464
+7219,Badania naukowe i prace rozwojowe w dziedzinie pozostałych nauk przyrodniczych i technicznych,721
+2312,Kształtowanie i obróbka szkła płaskiego,231
+2313,Produkcja szkła gospodarczego,231
+2314,Produkcja włókien szklanych,231
+2319,"Produkcja i obróbka pozostałego szkła, włączając szkło techniczne",231
+2320,Produkcja wyrobów ogniotrwałych,232
+2331,Produkcja ceramicznych kafli i płytek,233
+2332,"Produkcja cegieł, dachówek i materiałów budowlanych, z wypalanej gliny",233
+2341,Produkcja ceramicznych wyrobów stołowych i ozdobnych,234
+2342,Produkcja ceramicznych wyrobów sanitarnych,234
+2343,Produkcja ceramicznych izolatorów i osłon izolacyjnych,234
+2344,Produkcja pozostałych technicznych wyrobów ceramicznych,234
+2349,Produkcja pozostałych wyrobów ceramicznych,234
+2351,Produkcja cementu,235
+2352,Produkcja wapna i gipsu,235
+2361,Produkcja wyrobów budowlanych z betonu,236
+2362,Produkcja wyrobów budowlanych z gipsu,236
+2363,Produkcja masy betonowej prefabrykowanej,236
+2364,Produkcja zaprawy murarskiej,236
+2365,Produkcja cementu wzmocnionego włóknem,236
+2369,"Produkcja pozostałych wyrobów z betonu, gipsu i cementu",236
+2370,"Cięcie, formowanie i wykańczanie kamienia",237
+2391,Produkcja wyrobów ściernych,239
+2399,"Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana",239
+2410,"Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",241
+2420,"Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali",242
+2431,Produkcja prętów ciągnionych na zimno,243
+2432,Produkcja wyrobów płaskich walcowanych na zimno,243
+2433,Produkcja wyrobów formowanych na zimno,243
+2434,Produkcja drutu,243
+2441,Produkcja metali szlachetnych,244
+2442,Produkcja aluminium,244
+2443,"Produkcja ołowiu, cynku i cyny",244
+2444,Produkcja miedzi,244
+2445,Produkcja pozostałych metali nieżelaznych,244
+2446,Wytwarzanie paliw jądrowych,244
+2451,Odlewnictwo żeliwa,245
+2452,Odlewnictwo staliwa,245
+2453,Odlewnictwo metali lekkich,245
+2454,Odlewnictwo pozostałych metali nieżelaznych,245
+2511,Produkcja konstrukcji metalowych i ich części,251
+2512,Produkcja metalowych elementów stolarki budowlanej,251
+4642,Sprzedaż hurtowa odzieży i obuwia,464
+4643,Sprzedaż hurtowa elektrycznych artykułów użytku domowego,464
+4644,"Sprzedaż hurtowa wyrobów porcelanowych, ceramicznych i szklanych oraz środków czyszczących",464
+4645,Sprzedaż hurtowa perfum i kosmetyków,464
+4646,Sprzedaż hurtowa wyrobów farmaceutycznych i medycznych,464
+4647,"Sprzedaż hurtowa mebli, dywanów i sprzętu oświetleniowego",464
+4648,"Sprzedaż hurtowa zegarków, zegarów i biżuterii",464
+4649,Sprzedaż hurtowa pozostałych artykułów użytku domowego,464
+4651,"Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania",465
+4652,Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego,465
+4661,Sprzedaż hurtowa maszyn i urządzeń rolniczych oraz dodatkowego wyposażenia,466
+4662,Sprzedaż hurtowa obrabiarek,466
+4663,"Sprzedaż hurtowa maszyn wykorzystywanych w górnictwie, budownictwie oraz inżynierii lądowej i wodnej",466
+4664,Sprzedaż hurtowa maszyn dla przemysłu tekstylnego oraz maszyn do szycia i maszyn dziewiarskich,466
+4665,Sprzedaż hurtowa mebli biurowych,466
+4666,Sprzedaż hurtowa pozostałych maszyn i urządzeń biurowych,466
+4669,Sprzedaż hurtowa pozostałych maszyn i urządzeń,466
+4671,Sprzedaż hurtowa paliw i produktów pochodnych,467
+4672,Sprzedaż hurtowa metali i rud metali,467
+4673,"Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego",467
+4674,Sprzedaż hurtowa wyrobów metalowych oraz sprzętu i dodatkowego wyposażenia hydraulicznego i grzejnego,467
+4675,Sprzedaż hurtowa wyrobów chemicznych,467
+4676,Sprzedaż hurtowa pozostałych półproduktów,467
+4677,Sprzedaż hurtowa odpadów i złomu,467
+4690,Sprzedaż hurtowa niewyspecjalizowana,469
+4711,"Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych",471
+4719,Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach,471
+4721,Sprzedaż detaliczna owoców i warzyw prowadzona w wyspecjalizowanych sklepach,472
+4722,Sprzedaż detaliczna mięsa i wyrobów z mięsa prowadzona w wyspecjalizowanych sklepach,472
+4723,"Sprzedaż detaliczna ryb, skorupiaków i mięczaków prowadzona w wyspecjalizowanych sklepach",472
+4724,"Sprzedaż detaliczna pieczywa, ciast, wyrobów ciastkarskich i cukierniczych prowadzona w wyspecjalizowanych sklepach",472
+4725,Sprzedaż detaliczna napojów alkoholowych i bezalkoholowych prowadzona w wyspecjalizowanych sklepach,472
+4726,Sprzedaż detaliczna wyrobów tytoniowych prowadzona w wyspecjalizowanych sklepach,472
+4729,Sprzedaż detaliczna pozostałej żywności prowadzona w wyspecjalizowanych sklepach,472
+4730,Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw,473
+4741,"Sprzedaż detaliczna komputerów, urządzeń peryferyjnych i oprogramowania prowadzona w wyspecjalizowanych sklepach",474
+7220,Badania naukowe i prace rozwojowe w dziedzinie nauk społecznych i humanistycznych,722
+7311,Działalność agencji reklamowych,731
+7312,Działalność związana z reprezentowaniem mediów,731
+7320,Badanie rynku i opinii publicznej,732
+7410,Działalność w zakresie specjalistycznego projektowania,741
+7420,Działalność fotograficzna,742
+7430,Działalność związana z tłumaczeniami,743
+7490,"Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana",749
+7500,DZIAŁALNOŚĆ WETERYNARYJNA,750
+7711,Wynajem i dzierżawa samochodów osobowych i furgonetek,771
+7712,"Wynajem i dzierżawa pozostałych pojazdów samochodowych, z wyłączeniem motocykli",771
+7721,Wypożyczanie i dzierżawa sprzętu rekreacyjnego i sportowego,772
+7722,"Wypożyczanie kaset wideo, płyt CD, DVD itp.",772
+7729,Wypożyczanie i dzierżawa pozostałych artykułów użytku osobistego i domowego,772
+7731,Wynajem i dzierżawa maszyn i urządzeń rolniczych,773
+7732,Wynajem i dzierżawa maszyn i urządzeń budowlanych,773
+7733,"Wynajem i dzierżawa maszyn i urządzeń biurowych, włączając komputery",773
+7734,Wynajem i dzierżawa środków transportu wodnego,773
+7735,Wynajem i dzierżawa środków transportu lotniczego,773
+7739,"Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych, gdzie indziej niesklasyfikowane",773
+7740,"Dzierżawa własności intelektualnej i podobnych produktów, z wyłączeniem prac chronionych prawem autorskim",774
+7810,Działalność związana z wyszukiwaniem miejsc pracy i pozyskiwaniem pracowników,781
+7820,Działalność agencji pracy tymczasowej,782
+7830,Pozostała działalność związana z udostępnianiem pracowników,783
+7911,Działalność agentów i pośredników turystycznych,791
+7912,Działalność organizatorów turystyki,791
+7990,Pozostała działalność usługowa w zakresie rezerwacji i działalności z nią związane,799
+8010,"Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa",801
+8020,Działalność ochroniarska w zakresie obsługi systemów bezpieczeństwa,802
+8030,Działalność detektywistyczna,803
+8110,Działalność pomocnicza związana z utrzymaniem porządku w budynkach,811
+8121,Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych,812
+8122,Specjalistyczne sprzątanie budynków i obiektów przemysłowych,812
+8129,Pozostałe sprzątanie,812
+8130,Działalność usługowa związana z zagospodarowaniem terenów zieleni,813
+8211,Działalność usługowa związana z administracyjną obsługą biura,821
+8219,"Wykonywanie fotokopii, przygotowywanie dokumentów i pozostała specjalistyczna działalność wspomagająca prowadzenie biura",821
+8220,Działalność centrów telefonicznych (call center),822
+2521,Produkcja grzejników i kotłów centralnego ogrzewania,252
+4742,Sprzedaż detaliczna sprzętu telekomunikacyjnego prowadzona w wyspecjalizowanych sklepach,474
+8230,"Działalność związana z organizacją targów, wystaw i kongresów",823
+0111,"Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",011
+0112,Uprawa ryżu,011
+0113,"Uprawa warzyw, włączając melony oraz uprawa roślin korzeniowych i roślin bulwiastych",011
+0114,Uprawa trzciny cukrowej,011
+0115,Uprawa tytoniu,011
+0116,Uprawa roślin włóknistych,011
+0119,Pozostałe uprawy rolne inne niż wieloletnie,011
+0121,Uprawa winogron,012
+0122,Uprawa drzew i krzewów owocowych tropikalnych i podzwrotnikowych,012
+0123,Uprawa drzew i krzewów owocowych cytrusowych,012
+0124,Uprawa drzew i krzewów owocowych ziarnkowych i pestkowych,012
+0125,Uprawa pozostałych drzew i krzewów owocowych oraz orzechów,012
+0126,Uprawa drzew oleistych,012
+0127,Uprawa roślin wykorzystywanych do produkcji napojów,012
+0128,Uprawa roślin przyprawowych i aromatycznych oraz roślin wykorzystywanych do produkcji leków i wyrobów farmaceutycznych,012
+0129,Uprawa pozostałych roślin wieloletnich,012
+0130,Rozmnażanie roślin,013
+0141,Chów i hodowla bydła mlecznego,014
+0142,Chów i hodowla pozostałego bydła i bawołów,014
+0143,Chów i hodowla koni i pozostałych zwierząt koniowatych,014
+0144,Chów i hodowla wielbłądów i zwierząt wielbłądowatych,014
+0145,Chów i hodowla owiec i kóz,014
+0146,Chów i hodowla świń,014
+0147,Chów i hodowla drobiu,014
+0149,Chów i hodowla pozostałych zwierząt,014
+0150,Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana),015
+2529,"Produkcja pozostałych zbiorników, cystern i pojemników metalowych",252
+2530,"Produkcja wytwornic pary, z wyłączeniem kotłów do centralnego ogrzewania gorącą wodą",253
+2540,Produkcja broni i amunicji,254
+2550,"Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",255
+2561,Obróbka metali i nakładanie powłok na metale,256
+2562,Obróbka mechaniczna elementów metalowych,256
+2571,Produkcja wyrobów nożowniczych i sztućców,257
+2572,Produkcja zamków i zawiasów,257
+2573,Produkcja narzędzi,257
+2591,Produkcja pojemników metalowych,259
+2592,Produkcja opakowań z metali,259
+2593,"Produkcja wyrobów z drutu, łańcuchów i sprężyn",259
+2594,Produkcja złączy i śrub,259
+2599,"Produkcja pozostałych gotowych wyrobów metalowych, gdzie indziej niesklasyfikowana",259
+2611,Produkcja elementów elektronicznych,261
+2612,Produkcja elektronicznych obwodów drukowanych,261
+2620,Produkcja komputerów i urządzeń peryferyjnych,262
+2630,Produkcja sprzętu (tele)komunikacyjnego,263
+2640,Produkcja elektronicznego sprzętu powszechnego użytku,264
+2651,"Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych",265
+2652,Produkcja zegarków i zegarów,265
+2660,"Produkcja urządzeń napromieniowujących, sprzętu elektromedycznego i elektroterapeutycznego",266
+2670,Produkcja instrumentów optycznych i sprzętu fotograficznego,267
+2680,Produkcja magnetycznych i optycznych niezapisanych nośników informacji,268
+2711,"Produkcja elektrycznych silników, prądnic i transformatorów",271
+2712,Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej,271
+2720,Produkcja baterii i akumulatorów,272
+2731,Produkcja kabli światłowodowych,273
+2732,Produkcja pozostałych elektronicznych i elektrycznych przewodów i kabli,273
+2733,Produkcja sprzętu instalacyjnego,273
+2740,Produkcja elektrycznego sprzętu oświetleniowego,274
+2751,Produkcja elektrycznego sprzętu gospodarstwa domowego,275
+2752,Produkcja nieelektrycznego sprzętu gospodarstwa domowego,275
+2790,Produkcja pozostałego sprzętu elektrycznego,279
+2811,"Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych i motocyklowych",281
+2812,Produkcja sprzętu i wyposażenia do napędu hydraulicznego i pneumatycznego,281
+2813,Produkcja pozostałych pomp i sprężarek,281
+2814,Produkcja pozostałych kurków i zaworów,281
+2815,"Produkcja łożysk, kół zębatych, przekładni zębatych i elementów napędowych",281
+2821,"Produkcja pieców, palenisk i palników piecowych",282
+0161,Działalność usługowa wspomagająca produkcję roślinną,016
+0162,Działalność usługowa wspomagająca chów i hodowlę zwierząt gospodarskich,016
+0163,Działalność usługowa następująca po zbiorach,016
+0164,Obróbka nasion dla celów rozmnażania roślin,016
+2822,Produkcja urządzeń dźwigowych i chwytaków,282
+2823,"Produkcja maszyn i sprzętu biurowego, z wyłączeniem komputerów i urządzeń peryferyjnych",282
+2824,Produkcja narzędzi ręcznych mechanicznych,282
+2825,Produkcja przemysłowych urządzeń chłodniczych i wentylacyjnych,282
+2829,"Produkcja pozostałych maszyn ogólnego przeznaczenia, gdzie indziej niesklasyfikowana",282
+2830,Produkcja maszyn dla rolnictwa i leśnictwa,283
+2841,Produkcja maszyn do obróbki metalu,284
+2849,Produkcja pozostałych narzędzi mechanicznych,284
+2891,Produkcja maszyn dla metalurgii,289
+2892,Produkcja maszyn dla górnictwa i do wydobywania oraz budownictwa,289
+2893,"Produkcja maszyn stosowanych w przetwórstwie żywności, tytoniu i produkcji napojów",289
+2894,"Produkcja maszyn dla przemysłu tekstylnego, odzieżowego i skórzanego",289
+2895,Produkcja maszyn dla przemysłu papierniczego,289
+2896,Produkcja maszyn do obróbki gumy lub tworzyw sztucznych oraz wytwarzania wyrobów z tych materiałów,289
+2899,"Produkcja pozostałych maszyn specjalnego przeznaczenia, gdzie indziej niesklasyfikowana",289
+2910,"Produkcja pojazdów samochodowych, z wyłączeniem motocykli",291
+2920,Produkcja nadwozi do pojazdów silnikowych; produkcja przyczep i naczep,292
+2931,Produkcja wyposażenia elektrycznego i elektronicznego do pojazdów silnikowych,293
+2932,"Produkcja pozostałych części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli",293
+3011,Produkcja statków i konstrukcji pływających,301
+3012,Produkcja łodzi wycieczkowych i sportowych,301
+3020,Produkcja lokomotyw kolejowych oraz taboru szynowego,302
+3030,"Produkcja statków powietrznych, statków kosmicznych i podobnych maszyn",303
+3040,Produkcja wojskowych pojazdów bojowych,304
+3091,Produkcja motocykli,309
+3092,Produkcja rowerów i wózków inwalidzkich,309
+3099,"Produkcja pozostałego sprzętu transportowego, gdzie indziej niesklasyfikowana",309
+3101,Produkcja mebli biurowych i sklepowych,310
+3102,Produkcja mebli kuchennych,310
+3103,Produkcja materaców,310
+3109,Produkcja pozostałych mebli,310
+3211,Produkcja monet,321
+3212,Produkcja wyrobów jubilerskich i podobnych,321
+3213,Produkcja sztucznej biżuterii i wyrobów podobnych,321
+3220,Produkcja instrumentów muzycznych,322
+3230,Produkcja sprzętu sportowego,323
+3240,Produkcja gier i zabawek,324
+3250,"Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne",325
+3291,"Produkcja mioteł, szczotek i pędzli",329
+4743,Sprzedaż detaliczna sprzętu audiowizualnego prowadzona w wyspecjalizowanych sklepach,474
+4751,Sprzedaż detaliczna wyrobów tekstylnych prowadzona w wyspecjalizowanych sklepach,475
+4752,"Sprzedaż detaliczna drobnych wyrobów metalowych, farb i szkła prowadzona w wyspecjalizowanych sklepach",475
+4753,"Sprzedaż detaliczna dywanów, chodników i innych pokryć podłogowych oraz pokryć ściennych prowadzona w wyspecjalizowanych sklepach",475
+4754,Sprzedaż detaliczna elektrycznego sprzętu gospodarstwa domowego prowadzona w wyspecjalizowanych sklepach,475
+4759,"Sprzedaż detaliczna mebli, sprzętu oświetleniowego i pozostałych artykułów użytku domowego prowadzona w wyspecjalizowanych sklepach",475
+4761,Sprzedaż detaliczna książek prowadzona w wyspecjalizowanych sklepach,476
+4762,Sprzedaż detaliczna gazet i artykułów piśmiennych prowadzona w wyspecjalizowanych sklepach,476
+4763,Sprzedaż detaliczna nagrań dźwiękowych i audiowizualnych prowadzona w wyspecjalizowanych sklepach,476
+4764,Sprzedaż detaliczna sprzętu sportowego prowadzona w wyspecjalizowanych sklepach,476
+4765,Sprzedaż detaliczna gier i zabawek prowadzona w wyspecjalizowanych sklepach,476
+4771,Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach,477
+4772,Sprzedaż detaliczna obuwia i wyrobów skórzanych prowadzona w wyspecjalizowanych sklepach,477
+4773,Sprzedaż detaliczna wyrobów farmaceutycznych prowadzona w wyspecjalizowanych sklepach,477
+4774,"Sprzedaż detaliczna wyrobów medycznych, włączając ortopedyczne, prowadzona w wyspecjalizowanych sklepach",477
+4775,Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach,477
+4776,"Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach",477
+4777,"Sprzedaż detaliczna zegarków, zegarów i biżuterii prowadzona w wyspecjalizowanych sklepach",477
+4778,Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach,477
+4779,Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach,477
+4781,"Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach",478
+4782,"Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach",478
+4789,Sprzedaż detaliczna pozostałych wyrobów prowadzona na straganach i targowiskach,478
+4791,Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet,479
+4799,"Pozostała sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami",479
+4910,Transport kolejowy pasażerski międzymiastowy,491
+4920,Transport kolejowy towarów,492
+4931,"Transport lądowy pasażerski, miejski i podmiejski",493
+4932,Działalność taksówek osobowych,493
+4939,"Pozostały transport lądowy pasażerski, gdzie indziej niesklasyfikowany",493
+4941,Transport drogowy towarów,494
+4942,Działalność usługowa związana z przeprowadzkami,494
+4950,Transport rurociągowy,495
+5010,Transport morski i przybrzeżny pasażerski,501
+8291,Działalność świadczona przez agencje inkasa i biura kredytowe,829
+8292,Działalność związana z pakowaniem,829
+8299,"Pozostała działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowana",829
+8411,Kierowanie podstawowymi rodzajami działalności publicznej,841
+8412,"Kierowanie w zakresie działalności związanej z ochroną zdrowia, edukacją, kulturą oraz pozostałymi usługami społecznymi, z wyłączeniem zabezpieczeń społecznych",841
+8413,Kierowanie w zakresie efektywności gospodarowania,841
+8421,Sprawy zagraniczne,842
+8422,Obrona narodowa,842
+8423,Wymiar sprawiedliwości,842
+8424,"Bezpieczeństwo państwa, porządek i bezpieczeństwo publiczne",842
+8425,Ochrona przeciwpożarowa,842
+8430,Obowiązkowe zabezpieczenia społeczne,843
+8510,Wychowanie przedszkolne,851
+8520,Szkoły podstawowe,852
+8531,"Gimnazja, licea ogólnokształcące i profilowane",853
+8532,"Szkoły zawodowe, z wyłączeniem szkół policealnych",853
+8541,Szkoły policealne,854
+8542,"Zakłady kształcenia nauczycieli, kolegia pracowników służb społecznych oraz szkoły wyższe",854
+8551,Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych,855
+8552,Pozaszkolne formy edukacji artystycznej,855
+8553,Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu,855
+8559,"Pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane",855
+8560,Działalność wspomagająca edukację,856
+8610,Działalność szpitali,861
+8621,Praktyka lekarska ogólna,862
+8622,Praktyka lekarska specjalistyczna,862
+8623,Praktyka lekarska dentystyczna,862
+8690,Pozostała działalność w zakresie opieki zdrowotnej,869
+8710,Pomoc społeczna z zakwaterowaniem zapewniająca opiekę pielęgniarską,871
+8720,Pomoc społeczna z zakwaterowaniem dla osób z zaburzeniami psychicznymi,872
+8730,Pomoc społeczna z zakwaterowaniem dla osób w podeszłym wieku i osób niepełnosprawnych,873
+8790,Pozostała pomoc społeczna z zakwaterowaniem,879
+8810,Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych,881
+8891,Opieka dzienna nad dziećmi,889
+8899,"Pozostała pomoc społeczna bez zakwaterowania, gdzie indziej niesklasyfikowana",889
+9001,Działalność związana z wystawianiem przedstawień artystycznych,900
+9002,Działalność wspomagająca wystawianie przedstawień artystycznych,900
+9003,Artystyczna i literacka działalność twórcza,900
+9004,Działalność obiektów kulturalnych,900
