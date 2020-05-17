@@ -71,18 +71,33 @@ def count_by_businesses(*args):
 
 def partial_TERC_fill(data, terc):
    for index, row in data.iterrows():
-       if row['MainAddressTERC'] in ["", np.nan, "N/A"]:
-            terc_v = ""
-            terc_c = ""
-            if row['MainAddressVoivodeship'] not in ["", np.nan, "N/A"]:
-               terc_v = terc[terc['NAZWA'] == row['MainAddressVoivodeship']]['WOJ']
-            if row['MainAddressCounty'] not in ["", np.nan, "N/A"]:
-                terc_c = terc[terc['NAZWA'] == row['MainAddressCounty']]['POW']
-            else:
-                print("terc_v", terc_v)
-            data.at[index, 'MainAddressTERC'] = terc_v + terc_c
+        V = row['MainAddressVoivodeship']
+        C = row['MainAddressCounty']
+        
+        if C == 'RADOM':
+            data.at[index, 'MainAddressVoivodeship'] = 'MAZOWIECKIE'
+            V = 'MAZOWIECKIE'
+        if C == 'LUBLIN':
+            data.at[index, 'MainAddressVoivodeship'] = 'LUBELSKIE'
+            V = 'LUBELSKIE'
 
-df = read_data(sample=False)
+        code = ""
+        if V not in ["", None, "N/A"]:
+            code = terc[terc['NAZWA'] == V]['CODE']
+
+        if C not in ["", None, "N/A"]:
+            if V not in ["", None, "N/A"]:
+                code = terc[(terc['NAZWA'] == C) & (terc['WOJ'] == code.values[0])]['CODE']
+            else:
+                code = terc[terc['NAZWA'] == C]['CODE']
+        
+        if type(code) == pd.Series:
+            data.at[index, 'MainAddressTERC'] = code.values[0]
+        else:
+            data.at[index, 'MainAddressTERC'] = ""
+
+
+df = read_data(sample=False)     
 df = df.replace(np.nan, "", regex=True)
 
 v_main = 'MainAddressVoivodeship'
@@ -97,7 +112,7 @@ delete_county_prefixes(c_main, c_corresp)
 replace_values('voiv_to_be_replaced.json', v_main, v_corresp)
 replace_values('county_to_be_replaced.json', c_main, c_corresp)
 
-terc = pd.read_csv('../data_analisis/TERC_Urzedowy_2020-05-05.csv', encoding="utf-8", sep=';', dtype=str)
+terc = pd.read_csv('../data/TERC_list.csv', encoding="utf-8", dtype=str)
 
 partial_TERC_fill(df, terc)
 
