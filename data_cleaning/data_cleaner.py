@@ -67,8 +67,9 @@ def replace_duplicated_values(file_with_values, column_name, file_with_abbreviat
     values_to_be_replaced = read_from_json(file_with_values)
     abbreviations = read_from_json(file_with_abbreviations)
     for val in values_to_be_replaced:
-        df[column_name] = df.apply(lambda x : x[column_name] + ' (' + abbreviations[x[dependent_column]] + ')' if x[column_name] == val else x[column_name], axis=1)
-    
+        if (df[column_name] == val).any():
+            df.loc[df[column_name] == val, str(column_name)] = df.loc[df[column_name] == val].apply(lambda x : x[column_name] if x[dependent_column] != x[dependent_column] else x[column_name] + ' (' + abbreviations[x[dependent_column]] + ')', axis=1)
+
 def count_by_businesses(*args):
     for arg in args:
         business_counted_by_arg = df[arg].value_counts()
