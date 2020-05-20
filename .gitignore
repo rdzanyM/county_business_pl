@@ -4,3 +4,7 @@ data/ceidg_data_classif.csv
 venv/
 .ipynb_checkpoints/
 data_cleaning/.ipynb_checkpoints/
+venv
+*.pyc
+.DS_Store
+.env
