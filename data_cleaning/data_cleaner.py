@@ -102,7 +102,7 @@ def partial_TERC_fill(data, terc):
             data.at[index, 'MainAddressTERC'] = ""
 
 
-df = read_data(sample=True)     
+df = read_data(sample=False)     
 df = df.replace(np.nan, "", regex=True)
 
 v_main = 'MainAddressVoivodeship'
