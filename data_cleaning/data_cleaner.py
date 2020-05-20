@@ -63,7 +63,12 @@ def replace_values(file_with_values, *args):
     for arg in args:
         replace_values_in_column(arg, values_to_be_replaced)
 
-
+def replace_duplicated_values(file_with_values, column_name, file_with_abbreviations, dependent_column):
+    values_to_be_replaced = read_from_json(file_with_values)
+    abbreviations = read_from_json(file_with_abbreviations)
+    for val in values_to_be_replaced:
+        df[column_name] = df.apply(lambda x : x[column_name] + ' (' + abbreviations[x[dependent_column]] + ')' if x[column_name] == val else x[column_name], axis=1)
+    
 def count_by_businesses(*args):
     for arg in args:
         business_counted_by_arg = df[arg].value_counts()
@@ -82,10 +87,10 @@ def partial_TERC_fill(data, terc):
             V = 'LUBELSKIE'
 
         code = ""
-        if V not in ["", None, "N/A"]:
+        if V not in ["", None, "N/A", 'EMPTYFIELD']:
             code = terc[terc['NAZWA'] == V]['CODE']
 
-        if C not in ["", None, "N/A"]:
+        if C not in ["", None, "N/A", 'EMPTYFIELD']:
             if V not in ["", None, "N/A"]:
                 code = terc[(terc['NAZWA'] == C) & (terc['WOJ'] == code.values[0])]['CODE']
             else:
@@ -97,7 +102,7 @@ def partial_TERC_fill(data, terc):
             data.at[index, 'MainAddressTERC'] = ""
 
 
-df = read_data(sample=False)     
+df = read_data(sample=True)     
 df = df.replace(np.nan, "", regex=True)
 
 v_main = 'MainAddressVoivodeship'
@@ -116,6 +121,9 @@ terc = pd.read_csv('../data/TERC_list.csv', encoding="utf-8", dtype=str)
 
 partial_TERC_fill(df, terc)
 
-df.to_csv("../data/ceidg_data_classif_cleaned.csv")
+replace_duplicated_values('duplicated_counties.json', c_main, 'voiv_abbreviations.json', v_main)
+replace_duplicated_values('duplicated_counties.json', c_corresp, 'voiv_abbreviations.json', v_corresp)
+
+df.to_csv("./data/ceidg_data_classif_cleaned.csv")
 
 # count_by_businesses(*all_units)
