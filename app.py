@@ -4,8 +4,6 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-#from scipy.stats import zscore
-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -13,27 +11,10 @@ import dash_daq as daq
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 
-
-with open('./geo/wojewodztwa-min.geojson', 'r', encoding="utf8") as json_file:
-    geojson = json.load(json_file)
-v_id = pd.DataFrame([v['properties'] for v in geojson['features']])
-v_id['nazwa'] = v_id['nazwa'].str.upper()
-
-df = pd.read_csv('./data/ceidg_data_classif_removed.csv')
-df['MainAddressTERC'] = df['MainAddressTERC'].fillna(0).astype(int).apply(str)
-tooShortTERCCodesMask = (df['MainAddressTERC'].str.len()%2==1)
-df.loc[tooShortTERCCodesMask, 'MainAddressTERC'] = '0' + df['MainAddressTERC']
-
-data = df[['MainAddressVoivodeship', 'MainAddressCounty', 'PKDMainSection']]
-#matrix = data.groupby(['MainAddressVoivodeship','PKDMainSection']).size().unstack(fill_value=0)
-#matrix_proportions = matrix.div(matrix.sum(axis=1), axis=0)
-#normalized = matrix_proportions.apply(zscore)
-#normalized['Max'] = normalized.idxmax(axis=1)
-#print(normalized['Max'])
-
-#normalized_absolute = matrix.apply(zscore)
-# mało działalności z T, więc pomijamy, bo wywala w kosmos Z Score jak już coś jest
-#normalized_absolute['Max'] = normalized_absolute.iloc[:,:-1].idxmax(axis=1)
+data = pd.read_csv('./data/ceidg_data_classif_removed.csv')
+data['MainAddressTERC'] = data['MainAddressTERC'].fillna(0).astype(int).apply(str)
+tooShortTERCCodesMask = (data['MainAddressTERC'].str.len()%2==1)
+data.loc[tooShortTERCCodesMask, 'MainAddressTERC'] = '0' + data['MainAddressTERC']
 
 sections = pd.read_csv('./data/section_list.csv', dtype=str)
 sections['name'] = sections[['symbol', 'name']].apply('-'.join, axis=1)
@@ -66,7 +47,7 @@ with open('./geo/wojewodztwa-min.geojson', 'r', encoding="utf8") as json_file:
 with open('./geo/powiaty-min.geojson', 'r', encoding="utf8") as json_file:
     geojson_counties = json.load(json_file)
 
-data = df[
+data = data[
     ['MainAddressVoivodeship', 'MainAddressCounty', 'MainAddressTERC', 'Sex', 'HasPolishCitizenship', 'PKDMainSection',
      'PKDMainDivision', 'PKDMainGroup', 'PKDMainClass', 'Target', 'NoOfAdditionalPlaceOfTheBusiness']]
 data['MainVoivodeshipTERC'] = data['MainAddressTERC'].str.slice(start=0, stop=2)
